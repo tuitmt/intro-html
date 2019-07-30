@@ -1,7 +1,11 @@
 ## Trang học Pascal căn bản
 
+<<<<<<<
 Nơi cung cấp các kiến thức cần thiết để học Pascal ở cấp THCS.  
 Trang chủ [tuitmt.github.io/pascal](https://tuitmt.github.io/pascal/)
+=======
+Nơi cung cấp các kiến thức cần thiết để học Pascal ở cấp THCS
+>>>>>>>
 
 ----
 ## Nội dung
